@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I am Software Engineer with 3+ years of backend experience, specializing in Java
+- 🔭 I am a Software Engineer with 3+ years of backend experience, specializing in Java
 - 🧠 Strong knowledge of computer science fundamentals and problem-solving skills, with a passion for learning and building modern, highly scalable software
 - 🌱 Passionate and curious about technologies, especially backend and low-level programming
 
